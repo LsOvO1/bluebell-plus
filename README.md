@@ -158,8 +158,10 @@
 
 ## 项目预览图
 
-![示例图片](D:\bluebell-plus-main\images\1.png)
+![GitHub Logo](https://github.com/LsOvO1/bluebell-plus/tree/master/images/1.png)
 
-![示例图片](D:\bluebell-plus-main\images\2.png)
+![GitHub Logo](https://github.com/LsOvO1/bluebell-plus/tree/master/images/2.png)
 
-![示例图片](D:\bluebell-plus-main\images\log in.png)![示例图片](D:\bluebell-plus-main\images\log out.png)
+![GitHub Logo](https://github.com/LsOvO1/bluebell-plus/tree/master/images/log in.png)
+
+![GitHub Logo](https://github.com/LsOvO1/bluebell-plus/tree/master/images/log out.png)
