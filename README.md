@@ -162,6 +162,6 @@
 
 ![示例图片](images/2.png)
 
-![GitHub Logo](https://github.com/LsOvO1/bluebell-plus/tree/master/images/log in.png)
+![示例图片](images/log in.png)
 
-![GitHub Logo](https://github.com/LsOvO1/bluebell-plus/tree/master/images/log out.png)
+![示例图片](images/log out.png)
