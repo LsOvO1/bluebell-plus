@@ -162,6 +162,6 @@
 
 ![示例图片](images/2.png)
 
-![示例图片](images/log in.png)
+![示例图片](images/login.png)
 
-![示例图片](images/log out.png)
+![示例图片](images/logout.png)
